@@ -6,7 +6,7 @@ function HomePage() {
         <section id='home' className='bg-law-firm bg-no-repeat bg-cover h-screen w-screen grayscale-5 relative'>
             <div className='w-full h-full bg-slate-900 opacity-75 absolute'></div>
             <div className='flex items-center h-full'>
-                <div className='w-[50%] sm:ml-4 ml-48 h-[650px] absolute sm:w-[95%]'>
+                <div className='w-[50%] sm:ml-4 ml-48 h-[650px] absolute sm:mt-20 sm:w-[95%]'>
                     <div className='w-[300px]'>
                         <img src={Firm} alt="Reuvin Law Firm" className='sm:h-[56px] sm:w-[300px]'/>
                     </div>
